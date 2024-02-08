@@ -9,5 +9,5 @@ To build/run a specific project:
 ```bash
 # say the project is 'wc'
 cargo build --bin wc
-cargo run --bin wc -- <args>
+cargo run --bin wc -- --help
 ```
